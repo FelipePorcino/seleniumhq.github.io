@@ -4,7 +4,7 @@ linkTitle: "Drivers"
 weight: 3
 ---
 
-Starting and stopping a session is for opening and closing a browser.
+Iniciar e parar uma sessão serve para abrir e fechar um navegador.
 
 ## Creating Sessions
 
